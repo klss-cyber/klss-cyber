@@ -1,36 +1,4 @@
-```
- ██ ▄█▀ ██▓    ██████   ██████ 
- ██▄█▒ ▓██▒  ▒██    ▒ ▒██    ▒ 
-▓███▄░ ▒██░  ░ ▓██▄   ░ ▓██▄   
-▓██ █▄ ▒██░    ▒   ██▒  ▒   ██▒
-▒██▒ █▄░██████▒██████▒▒██████▒▒
-▒ ▒▒ ▓▒░ ▒░▓  ▒ ▒▓▒ ▒ ░▒ ▒▓▒ ▒ ░
-░ ░▒ ▒░░ ░ ▒  ░ ░▒  ░ ░░ ░▒  ░ ░
-░ ░░ ░   ░ ░  ░  ░  ░  ░  ░  ░  
-░  ░       ░  ░      ░       ░  
-```
-
-<h1 align="center">Olá, eu sou o Klss 👋</h1>
-<h3 align="center">Python Automations</h3>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=Making+automations+for+a+living;Arch+Linux+%2B+Kali+enjoyer;Hyprland+%7C+KDE;Building+tools+in+Python" alt="Typing SVG" />
-</p>
-
----
-
-
-### 🛠️ Stack
-
-<p align="left">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white"/>
-</p>
-
----
+# Cybersec Enthusiast
 
 ### 🖥️ Sistema & Ambiente
 
